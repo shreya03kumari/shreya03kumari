@@ -1,40 +1,70 @@
 # Hi, I'm Shreya 👋
 
-## Data Engineer | GCP | BigQuery | Cloud Data Platforms
+## Data Engineer | GCP | BigQuery | SQL | Python
 
-I am a Data Engineer with 5+ years of experience building scalable data solutions using cloud technologies.
+Data Engineer with 5+ years of experience building scalable data pipelines, ETL solutions, and cloud-based data platforms.
 
-## 💻 Skills
+Currently working with modern data engineering technologies including Google Cloud Platform, BigQuery, Python, SQL, and data pipeline architectures.
 
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+- Python
+- SQL
+
+### Cloud Platform
 - Google Cloud Platform (GCP)
 - BigQuery
-- SQL
-- Python
-- ETL Pipelines
-- Apache Airflow
-- Cloud Composer
 - Dataflow
 - Pub/Sub
-- Data Governance
-- GDPR & PII Handling
+- Cloud Storage
 
-## ☁️ Cloud & Data Engineering
+### Data Engineering
+- ETL Pipelines
+- Batch Processing
+- Streaming Pipelines
+- Data Modelling
+- Data Quality
+- Workflow Orchestration
 
-Experience with:
+### Tools
+- Apache Airflow
+- Apache Beam
+- Git
+- CI/CD Concepts
 
-- Batch and streaming data pipelines
-- Data warehouse solutions
-- Cloud migration projects
-- Data modelling and optimization
-- Automated ETL workflows
+---
 
-## 🛠️ Currently Learning
+## 🚀 Featured Projects
 
-- Advanced Python for Data Engineering
+### GCP Batch Data Pipeline
+
+CSV → Dataflow → BigQuery → SQL Analytics
+
+Technologies:
+Python | Apache Beam | Dataflow | BigQuery
+
+
+### GCP Real-Time Streaming Pipeline
+
+Events → Pub/Sub → Dataflow → BigQuery
+
+Technologies:
+Python | Pub/Sub | Apache Beam | BigQuery
+
+---
+
+## 📚 Currently Learning
+
 - dbt
 - Looker / LookML
-- Data Engineering best practices
+- Advanced Python for Data Engineering
+- Cloud Data Platform Architecture
 
-## 📫 Connect with me
+---
 
-LinkedIn: [https://www.linkedin.com/in/shreya-kumari-94704a182/](https://www.linkedin.com/in/shreya-kumari-94704a182/)
+## 📫 Connect With Me
+
+LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/shreya-kumari-94704a182/)
