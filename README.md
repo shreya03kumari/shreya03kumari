@@ -67,4 +67,4 @@ Python | Pub/Sub | Apache Beam | BigQuery
 
 ## 📫 Connect With Me
 
-LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/shreya-kumari-94704a182/)
+LinkedIn: [(https://www.linkedin.com/in/shreya-kumari-94704a182/)](https://www.linkedin.com/in/shreya-kumari-94704a182/)
