@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Shreya 👋
 
-<!--
-**shreya03kumari/shreya03kumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer | GCP | BigQuery | Cloud Data Platforms
 
-Here are some ideas to get you started:
+I am a Data Engineer with 5+ years of experience building scalable data solutions using cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+- Google Cloud Platform (GCP)
+- BigQuery
+- SQL
+- Python
+- ETL Pipelines
+- Apache Airflow
+- Cloud Composer
+- Dataflow
+- Pub/Sub
+- Data Governance
+- GDPR & PII Handling
+
+## ☁️ Cloud & Data Engineering
+
+Experience with:
+
+- Batch and streaming data pipelines
+- Data warehouse solutions
+- Cloud migration projects
+- Data modelling and optimization
+- Automated ETL workflows
+
+## 🛠️ Currently Learning
+
+- Advanced Python for Data Engineering
+- dbt
+- Looker / LookML
+- Data Engineering best practices
+
+## 📫 Connect with me
+
+LinkedIn: [https://www.linkedin.com/in/shreya-kumari-94704a182/](https://www.linkedin.com/in/shreya-kumari-94704a182/)
